@@ -2,7 +2,7 @@
   "name": "niemanlab/openfuego",
   "type": "library",
   "description": "Twitter tracker that orders tweets based on their influence in a defined network of Twitter users.",
-  "keywords": ["twitter","tracker","bot",""],
+  "keywords": ["twitter","tracker","bot"],
   "homepage": "https://github.com/niemanlab/openfuego",
   "license": "MIT",
   "authors": [
