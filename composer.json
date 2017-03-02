@@ -1,5 +1,5 @@
 {
-  "name": "niemanlab/openfuego",
+  "name": "growen/openfuego",
   "type": "library",
   "description": "Twitter tracker that orders tweets based on their influence in a defined network of Twitter users.",
   "keywords": ["twitter","tracker","bot"],
